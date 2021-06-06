@@ -12,6 +12,8 @@ During Training:
 During Testing:
 <br>Loss:
 <br>
+
+
 ![image](https://user-images.githubusercontent.com/37467941/120920291-b151d600-c6db-11eb-87a8-835e3b3b32ce.png)
 
 
