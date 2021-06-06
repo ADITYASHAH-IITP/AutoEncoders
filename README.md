@@ -10,4 +10,5 @@ During Training:
 <br>
 During Testing:
 <br>Loss:
-![image](https://user-images.githubusercontent.com/37467941/120920187-40122300-c6db-11eb-8daa-0ebcd9fcffc4.png)
+![image](https://user-images.githubusercontent.com/37467941/120920271-9d0dd900-c6db-11eb-8b6b-7e901cdbb65a.png)
+
